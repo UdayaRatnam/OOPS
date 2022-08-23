@@ -1,0 +1,257 @@
+Audi Q3
+Audi Q5
+Audi Q5 Sportback
+Audi SQ5
+Audi SQ5 Sportback
+Audi Q7
+Audi SQ7
+Audi Q8
+Audi SQ8
+Audi RS Q8
+Audi e-tron SUV
+Audi S4 Sedan
+Audi A5 Coupe
+Audi S5 Coupe
+Audi RS 5 Coupe
+Audi A5 Sportback
+Audi S5 Sportback
+Audi RS 5 Sportback
+Audi A5 Cabriolet
+Audi S5 Cabriolet
+Audi TTS
+Audi TT RS
+Audi TT Roadster
+Audi R8 Coupe
+Audi R8 Spyder
+BMW Alpina B6 xDrive Gran Coupe
+BMW Alpina B7
+BMW Alpina B7 xDrive
+BMW M2 Competition Coupe
+BMW 318i
+BMW 318i Convertible
+BMW 318i/318is
+BMW 318i/318iS
+BMW 318is
+BMW 318is Convertible
+BMW 318ti
+BMW 323ci
+BMW 323i
+BMW 323i Convertible
+BMW 323i Touring
+BMW 323is
+BMW 850ci
+BMW 850csi
+BMW 850i
+BMW Active E
+Buick Enclave FWD
+Buick Encore
+Buick Encore AWD
+Buick Encore FWD
+Buick Envision AWD
+Buick Envision FWD
+Buick LaCrosse
+Buick LaCrosse AWD
+Buick LaCrosse eAssist
+Buick Regal
+Buick Regal AWD
+Buick Regal eAssist
+Buick Regal TourX AWD
+Buick Verano
+Buick Rendezvous FWD
+Buick Riviera
+Buick Riviera Convertible
+Buick Roadmaster
+Buick Roadmaster Wagon
+Buick Skyhawk
+Buick Skyhawk Wagon
+Buick Skylark
+Buick Somerset Regal
+Buick Somerset/Skylark
+Buick Terraza AWD
+Buick Terraza FWD
+Cadillac ATS
+Cadillac ATS AWD
+Cadillac ATS-V
+Cadillac CT5
+Cadillac CT5 AWD
+Cadillac CT6
+Cadillac CT6 AWD
+Cadillac CT6 Plug-In
+Cadillac CTS
+Cadillac CTS AWD
+Cadillac Fleetwood Brougham
+Cadillac Fleetwood Brougham (RWD)
+Cadillac Fleetwood/DeVille
+Cadillac Fleetwood/DeVille (FWD)
+Cadillac Funeral Coach / Hearse
+Cadillac Funeral Coach/Hearse
+Cadillac Limousine
+Cadillac Seville
+Cadillac SRX 2WD
+Cadillac STS
+Cadillac STS 2WD
+Cadillac STS AWD
+Cadillac STS-V
+Cadillac XLR
+Cadillac XLR-V
+Chevrolet Blazer AWD
+Chevrolet Blazer FWD
+Chevrolet Bolt EV
+Chevrolet Camaro
+Chevrolet City Express Cargo Van
+Chevrolet Colorado 2WD
+Chevrolet Colorado 4WD
+Chevrolet Colorado Cab Chassis 2WD
+Chevrolet Colorado ZR2 4WD
+Chevrolet Corvette
+Chevrolet Corvette Z06
+Chevrolet Corvette ZR1
+Chevrolet Cruze
+Chevrolet Sonic RS
+Chevrolet Spark
+Chevrolet Spark ACTIV
+Dodge Challenger
+Dodge Challenger AWD
+Dodge Challenger GT
+Dodge Challenger SRT
+Dodge Challenger SRT Widebody
+Dodge Challenger SRT8
+Dodge Challenger Widebody
+Dodge Charger
+Dodge Charger AWD
+Dodge Charger SRT
+Dodge Charger SRT Widebody
+Dodge Charger SRT8
+Dodge Charger Widebody
+Dodge Dart
+Dodge Dart Aero
+Dodge Dart GT
+Dodge Durango AWD
+Dodge Durango RWD
+Dodge Durango SRT AWD
+Dodge Grand Caravan
+Dodge Journey
+Dodge Journey AWD
+Dodge Viper
+Dodge Viper SRT
+Ferrari 488 GTB
+Ferrari 488 Pista
+Ferrari 488 Pista Spider
+Ferrari 488 Spider
+Ferrari 812 Superfast
+Ferrari California T
+Ferrari F12
+Ferrari F12 Berlinetta
+Ferrari F12 tdf
+Ferrari F60 America
+Ferrari F8 Tributo
+Ferrari FF
+Ferrari GTC4Lusso
+Ferrari GTC4Lusso T
+Ferrari LaFerrari Aperta
+Ferrari Portofino
+Ford C-MAX Energi Plug-in Hybrid
+Ford C-MAX Energi Plug-In Hybrid
+Ford C-MAX Hybrid FWD
+Ford EcoSport AWD
+Ford EcoSport FWD
+Ford Edge AWD
+Ford Edge FWD
+Ford Explorer HEV AWD
+Ford Explorer HEV RWD
+Ford Explorer RWD
+Ford GT
+Ford Mustang
+Ford Mustang Bullitt
+Ford Mustang Convertible
+Ford Mustang HO Convertible
+Ford Taurus FWD
+Ford Taurus FWD FFV
+Ford Transit Connect USPS
+Ford Transit Connect Van 2WD
+Ford Transit T150 Wagon
+Ford Transit T150 Wagon 2WD FFV
+Ford Transit T150 Wagon 4WD FFV
+Toyota 4Runner 2WD
+Toyota Camry LE/SE
+Toyota Camry TRD
+Toyota Camry XLE/XSE
+Toyota Camry XSE
+Toyota Corolla
+Toyota Corolla Hatchback
+Toyota Corolla Hatchback XSE
+Toyota Corolla Hybrid
+Toyota Corolla iM
+Toyota Corolla LE Eco
+Toyota Corolla XLE
+Toyota Corolla XSE
+Toyota GR Supra
+Toyota Highlander
+Toyota Highlander 2WD
+Toyota Highlander AWD
+Toyota Highlander AWD LE
+Toyota Highlander Hybrid AWD
+Toyota Highlander Hybrid AWD LE Plus
+Toyota Highlander LE/XLE/SE/LTD
+Toyota Land Cruiser Wagon 4WD
+Toyota Prius
+Toyota Prius AWD
+Toyota Prius c
+Toyota Prius Eco
+Toyota Prius Prime
+Toyota Prius v
+Toyota RAV4
+Toyota RAV4 AWD
+Toyota RAV4 AWD LE
+Toyota RAV4 AWD TRD OFFROAD
+Toyota RAV4 Hybrid AWD
+Toyota RAV4 LE/XLE
+Toyota RAV4 Limited AWD/SE AWD
+Toyota Sequoia 2WD
+Toyota Sequoia 4WD
+Honda Accord
+Honda Accord 2.0T Sport/Touring
+Honda Accord Hybrid
+Honda Civic 2Dr
+Honda Civic 4Dr
+Honda Civic 5Dr
+Honda Civic 5Dr - Type R
+Honda Civic 5Dr Sport
+Honda Civic Si 2Dr
+Honda Civic Si 4Dr
+Honda Clarity EV
+Honda Clarity Plug-in Hybrid
+Honda CR-V 2WD
+Honda CR-V 4WD
+White
+Yellow
+Blue
+Red
+Green
+Black
+Brown
+Azure
+Ivory
+Teal
+Silver
+Purple
+Navy blue
+Pea green
+Gray
+Orange
+Maroon
+Charcoal
+Aquamarine
+Coral
+Fuchsia
+Wheat
+Lime
+Crimson
+Khaki
+Hot pink
+Magenta
+Olden
+Plum
+Olive
+Cyan
+
